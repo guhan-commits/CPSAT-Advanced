@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Browser Suite">
+    <parameter name="browser" value="chrome"/>  <!-- Change this to 'firefox' to use Firefox -->
+
+    <test name="TestNG Tests">
+        <classes>
+            <class name="Solutions.Question1"/>
+            <class name="Solutions.Question2"/>
+            <class name="Solutions.Question3Test"/>
+            <class name="Solutions.Question4"/>
+            <!-- <class name="Solutions.Solution3"/>-->
+        </classes>
+    </test>
+</suite>

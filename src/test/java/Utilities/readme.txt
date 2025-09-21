@@ -1,0 +1,1 @@
+Utils folder is where any wrapper functions will be stored for selenium, data handling or any other aspect.

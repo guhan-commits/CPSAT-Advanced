@@ -1,0 +1,1 @@
+Our solution files for each question should be names as Solution1.java, Solution2.java and stored in this folder
