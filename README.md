@@ -1,2 +1,2 @@
 # CPSAT-Advanced
-CPSAT Advanced Exam conducted by Agile Testing Alliance on proctoring basis.
+CPSAT Advanced Exam conducted by Agile Testing Alliance on proctoring basis to test advanced concepts in selenium.
